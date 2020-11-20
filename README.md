@@ -1,4 +1,5 @@
-# gettext-go
+# [DEPRECATED] gettext-go
+This project is no longer maintained. It has been deprecated in favour of [goi18n](https://github.com/ContextLogic/goi18n)
 
 ## Development
 1. Make some changes, submit PR, and merge to master
